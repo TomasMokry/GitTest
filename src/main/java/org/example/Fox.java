@@ -1,6 +1,7 @@
 package org.example;
 
 public class Fox {
+    //what about his
     private String name;
     private int number;
 
