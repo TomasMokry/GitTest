@@ -10,5 +10,6 @@ public class Kitten {
         System.out.println("This is a bug fix");
         System.out.println("This is a bug fix");
         //this is my feature
+        //this is my second feature
     }
 }
