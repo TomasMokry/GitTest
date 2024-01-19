@@ -11,4 +11,9 @@ public class Fox {
     public void miou(){
         System.out.println("cat miow");
     }
+
+
+    public void haf(){
+        System.out.println("haha");
+    }
 }
