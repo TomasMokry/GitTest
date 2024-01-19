@@ -8,4 +8,7 @@ public class Fox {
         this.name = name;
         this.number = number;
     }
+    public void miou(){
+        System.out.println("cat miow");
+    }
 }
