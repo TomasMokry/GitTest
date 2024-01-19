@@ -5,5 +5,7 @@ public class Kitten {
         System.out.println("bla");
         System.out.println("change");
         System.out.println("This is a bug fix");
+        System.out.println("This is a bug fix");
+        System.out.println("This is a bug fix");
     }
 }
